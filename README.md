@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @madelinebellanger
+- 👀 I’m interested in bioinformatics, anthropology, hominid genetics, human genetics, evolutionary mutations.
+- 🌱 I’m currently learning research practices in bioinformatics/computational biology.
+- 📫 How to reach me: Email - mbellang@uncc.edu
