@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @madelinebellanger
-- 👀 I’m interested in bioinformatics, microbiology, and novel phage discovery.
-- 🌱 I’m currently getting my Ph.D. in Bioinformatics and Computational Biology.
-- 📫 How to reach me: Email - mbellang@charlotte.edu
+- 👀 I’m interested in bioinformatics, microbiology, and virology.
+- 🌱 I have my Ph.D. in Bioinformatics and Computational Biology from UNC Charlotte.
+- 📫 How to reach me: Email - mabellanger26@gmail.com
